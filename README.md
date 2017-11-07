@@ -1,2 +1,2 @@
 # gender-recognition
-G6
+Gender recognition for Kaggle
